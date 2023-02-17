@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "files",
@@ -38,6 +38,19 @@
             "modulePath": "Homepage.jsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "-qygjhSzAI",
+          "name": "Thanks",
+          "type": "managed",
+          "projectId": "qLbKtmKmYSPMeUDVUL9rt9",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicThanks.jsx",
+          "importSpec": {
+            "modulePath": "Thanks.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicThanks.module.css",
           "scheme": "blackbox",
           "componentType": "page"
         }

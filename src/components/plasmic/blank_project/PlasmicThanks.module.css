@@ -1,14 +1,13 @@
 .root {
   display: flex;
-  position: relative;
   flex-direction: column;
+  position: relative;
   width: 100%;
   height: 100%;
   justify-content: flex-start;
   align-items: center;
   min-width: 0;
   min-height: 0;
-  padding: 0px;
 }
 .goalFrame {
   background: rgba(255, 255, 255, 1);
@@ -23,8 +22,8 @@
   height: 350px;
   display: block;
   position: absolute;
-  top: 395px;
-  left: 1129px;
+  top: 365px;
+  left: 636px;
 }
 .box {
   box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.289);
@@ -59,7 +58,7 @@
   width: 100%;
   height: 50%;
 }
-.text__taHR {
+.text__jk61S {
   display: block;
   font-size: 24px;
   font-family: "Ponnala";
@@ -91,7 +90,7 @@
   left: 0%;
   border-radius: 12px;
 }
-.text__byRR {
+.text__udbCi {
   display: block;
   font-size: 19px;
   font-family: "Ubuntu", sans-serif;
@@ -119,7 +118,7 @@
   top: 102px;
   left: 0px;
 }
-.text__wrW0C {
+.text__k4FOa {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -152,7 +151,7 @@
   top: 68px;
   left: 189px;
 }
-.text__ngsdm {
+.text___6Klql {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -185,7 +184,7 @@
   top: 68px;
   left: 0px;
 }
-.text__l9R3L {
+.text__ajLz4 {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -218,7 +217,7 @@
   top: 34px;
   left: 189px;
 }
-.text__huPy5 {
+.text__xukXb {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -251,7 +250,7 @@
   top: 34px;
   left: 0px;
 }
-.text___8LyBk {
+.text__geE0N {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -284,7 +283,7 @@
   top: 0px;
   left: 190px;
 }
-.text__rh0I {
+.text___36Krh {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -317,7 +316,7 @@
   top: 0px;
   left: 1px;
 }
-.text__n4Nyv {
+.text__knNrK {
   display: block;
   font-size: 15px;
   font-family: "Ubuntu", sans-serif;
@@ -341,241 +340,4 @@
   top: 0%;
   left: 0%;
   border-radius: 2px;
-}
-.rectangle1 {
-  box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.289);
-  background: rgba(255, 253, 253, 1);
-  width: 500px;
-  height: 350px;
-  display: block;
-  position: absolute;
-  top: 385px;
-  left: 280px;
-  border-radius: 14px;
-}
-.text__oNgce {
-  display: block;
-  font-size: 24px;
-  font-family: "Ponnala";
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(0, 0, 0, 1);
-  position: absolute;
-  top: 427px;
-  left: 316px;
-  width: 139px;
-  height: 32px;
-}
-.selectAtLeast4GoalsToContinue2 {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(105, 91, 91, 1);
-  position: absolute;
-  top: 459px;
-  left: 316px;
-  width: 237px;
-  height: 32px;
-}
-.text__tzvXy {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 508px;
-  left: 342px;
-  width: 142px;
-  height: 16px;
-}
-.rectangle10 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 508px;
-  left: 316px;
-  border-radius: 2px;
-}
-.text___39Qsi {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 508px;
-  left: 531px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle11 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 508px;
-  left: 505px;
-  border-radius: 2px;
-}
-.text__xuFoj {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 542px;
-  left: 530px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle12 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 542px;
-  left: 504px;
-  border-radius: 2px;
-}
-.text__uYk68 {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 542px;
-  left: 341px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle13 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 542px;
-  left: 315px;
-  border-radius: 2px;
-}
-.text__bg0O {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 576px;
-  left: 530px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle14 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 576px;
-  left: 504px;
-  border-radius: 2px;
-}
-.text__m3GKf {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 576px;
-  left: 341px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle15 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 576px;
-  left: 315px;
-  border-radius: 2px;
-}
-.text__yS6NK {
-  display: block;
-  font-size: 15px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(61, 59, 59, 1);
-  position: absolute;
-  top: 610px;
-  left: 341px;
-  width: 170px;
-  height: 16px;
-}
-.rectangle16 {
-  background: rgba(255, 255, 255, 1);
-  box-shadow: 0px 0px 0px 1px rgba(59, 57, 57, 1);
-  width: 16px;
-  height: 16px;
-  display: block;
-  position: absolute;
-  top: 610px;
-  left: 315px;
-  border-radius: 2px;
-}
-.button {
-  background: rgba(23, 157, 255, 0.259);
-  width: 100px;
-  height: 50px;
-  display: block;
-  position: absolute;
-  right: 1182px;
-  bottom: 381px;
-  border-radius: 12px;
-}
-.text___0ZOZ {
-  display: block;
-  font-size: 19px;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 700;
-  letter-spacing: 0em;
-  line-height: 100%;
-  color: rgba(23, 157, 255, 1);
-  position: absolute;
-  left: 17px;
-  top: 15px;
-  text-align: center;
 }
